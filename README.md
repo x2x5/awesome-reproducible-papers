@@ -2,11 +2,25 @@
 
 ## Why this repo?
 
-I’m tired of cloning a repo only to find the results are lower than what the paper claimed. Sure, it might be a version issue or a different GPU, but why are the numbers _always_ lower, never higher?
+I’m tired of cloning a repo only to find the results are lower than what the paper claimed. 
 
-Research shouldn't be this hard to start. If a project is actually reproducible, it lowers the barrier for everyone.
+Sure, it might be a version issue or a different GPU, but why are the numbers _always_ lower, never higher?
 
-**The rule here is simple:** I test these implementations myself. If I can't get the original metrics, they don't make the list. If they’re here, they work.
+Research shouldn't be this hard to start. 
+
+If a project is actually reproducible, it lowers the barrier for everyone.
+
+Let's focus on building instead of fixing someone else's broken code.
+
+**The rule here is simple:** I test these implementations myself.
+- If it’s on this list, it’s verified.
+- If I can't get the original metrics, they don't make the list.
+
+For each repo here,
+- If the original or a 3rd-party repo works, I'll link it directly.
+- If not, I’ll host the patched project in a new repo and link it here.
+
+
 
 ## 🖼️ Computer Vision
 

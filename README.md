@@ -1,6 +1,12 @@
 # Awesome Reproducible Papers
 
-This repository contains research paper implementations verified to reproduce original reported metrics.
+## Why this repo?
+
+I’m tired of cloning a repo only to find the results are lower than what the paper claimed. Sure, it might be a version issue or a different GPU, but why are the numbers _always_ lower, never higher?
+
+Research shouldn't be this hard to start. If a project is actually reproducible, it lowers the barrier for everyone.
+
+**The rule here is simple:** I test these implementations myself. If I can't get the original metrics, they don't make the list. If they’re here, they work.
 
 ## 🖼️ Computer Vision
 
